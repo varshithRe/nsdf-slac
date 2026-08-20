@@ -1,6 +1,6 @@
 # NSDF Dark Matter Dashboard
 
-![Channel Dashboard](../assets/slacdashboard.png)
+![Channel Dashboard](../assets/nexusdashboard.png)
 
 The [NSDF Dark Matter dashboard](https://services.nationalsciencedatafabric.org/darkmatter) is a web-based visualization tool for the R76 dark matter dataset.
 
